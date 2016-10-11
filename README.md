@@ -52,9 +52,9 @@ STDOUT; otherwise, the string "Attestation failed.\n" is written to STDOUT.
 
 ## Requirements
 
-* `gpg` v1 or v2
+* `gpg` v2
 * `python` 2.7+
-* `openssl` command-line program v???
+* `openssl` command-line program
 * `find` UNIX program
 
 ## Examples
